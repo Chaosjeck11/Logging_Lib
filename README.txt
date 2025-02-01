@@ -1,5 +1,6 @@
-								
-									//Hier eine kurze Einleitung in die Funktion und Nutzung dieser kleien Bibliothek//
+
+											//Hier eine kurze Einleitung in die Funktion//
+											  //und Nutzung dieser kleien Bibliothek//
 
 							//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 		Dateipfad bearbeiten: 
